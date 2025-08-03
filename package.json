@@ -1,0 +1,27 @@
+{
+  "name": "rodriguez-playbit",
+  "version": "1.0.0",
+  "description": "Visualizador de frecuencias de audio en tiempo real",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "keywords": [
+    "audio",
+    "visualization",
+    "threejs",
+    "webgl",
+    "audiocontext"
+  ],
+  "author": "juanfuent-es",
+  "license": "GNU GPLv3"
+} 
